@@ -1,5 +1,5 @@
 # Computer Simulation (CS 558)
-Projects and Course Work from CS 558
+Projects and Course Work from CS 558, SDSU
 
 ## Plagiarism Notice
 I am making my coursework available under the assumption that it will not be plagiarized. Please do not plagarize, you'll definitely get caught and I'd rather not have to delete this repository :).
@@ -11,3 +11,5 @@ https://poorvucenter.yale.edu/writing/wr-instructor-resources/addressing-academi
 
 - Giving credit where it’s due but adding your own reflection will get you higher grades than putting your name on someone else’s work. 
 In an academic context, it counts more to show your ideas in conversation than to try to present them as sui generis.
+
+- Getting caught will bring you a world of hurt to not just your grades but your degree as well, it's not worth it.
