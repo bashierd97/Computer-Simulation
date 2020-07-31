@@ -1,5 +1,5 @@
 # Computer Simulation (CS 558)
-Projects and Course Work from CS 558, SDSU
+Projects and Course Work from CS 558
 
 ## Plagiarism Notice
 I am making my coursework available under the assumption that it will not be plagiarized. Please do not plagarize, you'll definitely get caught and I'd rather not have to delete this repository :).
